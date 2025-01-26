@@ -28,8 +28,8 @@ const Home = () => {
         </div>
       <div className="mt-4  text-white">
         <h2 className="text-xl font-bold mb-2">Profile Details</h2>
-        <p>Name: Shaik Nagur Sharif</p>
-        <p>Email: shaik.Nagur_sharif@example.com</p>
+        <p>Name: John Doe</p>
+        <p>Email: john.doe@example.com</p>
         <p>Phone: (123) 456-7890</p>
       </div>
       </div>

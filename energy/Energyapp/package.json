@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@apollo/client": "^3.12.8",
     "@tailwindcss/vite": "^4.0.0",
+    "energyapp": "file:",
+    "graphql": "^16.10.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.1.3",

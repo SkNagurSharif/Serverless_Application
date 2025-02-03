@@ -1,0 +1,4 @@
+graphene
+boto3
+setuptools
+pytest
